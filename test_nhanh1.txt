@@ -1,4 +1,4 @@
 
 đây là nhánh 1
 toi la nguoi tao ra no
-
+xung dot conflict
